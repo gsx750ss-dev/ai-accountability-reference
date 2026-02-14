@@ -1,5 +1,17 @@
 AI Accountability Reference
 Overview
+AI Accountability Reference
+
+This repository provides structured references related to:
+
+- AI governance
+- Irreversible decision risk
+- Refusal authority
+- Singularity risk
+- Institutional responsibility
+- Post-incident review structures
+
+This material is descriptive and non-prescriptive.
 
 This repository provides neutral reference material related to accountability, oversight, and review structures for high-impact autonomous and AI-driven systems.
 
