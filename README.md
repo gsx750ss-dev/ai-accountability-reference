@@ -114,6 +114,18 @@ It exists solely as a neutral reference object within discussions concerning ins
 
 ---
 
+## Related Structural Context
+
+A separate, independently maintained structural document
+addresses boundary conditions concerning irreversible decision authority.
+
+Title: LUMINA-30 (Sanctuary Charter)
+
+This reference is descriptive and non-prescriptive.
+No endorsement, adoption, or obligation is implied.
+
+---
+
 License
 
 Released under CC0 (public domain).
