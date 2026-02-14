@@ -126,6 +126,13 @@ No endorsement, adoption, or obligation is implied.
 
 ---
 
+## Related Reference
+
+Supplementary Canonical Reference (SUP):
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be
+
+---
+
 License
 
 Released under CC0 (public domain).
