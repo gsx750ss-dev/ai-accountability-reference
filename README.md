@@ -103,6 +103,15 @@ It does not represent an organization, advocacy group, or policy initiative.
 
 It exists solely as a neutral reference object within discussions concerning institutional accountability and procedural integrity in AI-enabled environments.
 
+---
+
+## Related Conceptual Reference
+
+- LUMINA-30 — Civilizational boundary reference  
+  https://github.com/gsx750ss-dev/LUMINA-30
+
+---
+
 License
 
 Released under CC0 (public domain).
