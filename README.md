@@ -1,5 +1,7 @@
 AI Accountability Reference
 Overview
+This reference may be relevant to discussions on AI governance, singularity risk, refusal authority, and institutional decision accountability.
+
 AI Accountability Reference
 
 This repository provides structured references related to:
