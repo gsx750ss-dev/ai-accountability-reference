@@ -143,6 +143,13 @@ https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb33
 
 ---
 
+## Structural Context
+
+For structural overview of the broader LUMINA-30 framework:  
+https://github.com/gsx750ss-dev/lumina-30-overview
+
+---
+
 License
 
 Released under CC0 (public domain).
