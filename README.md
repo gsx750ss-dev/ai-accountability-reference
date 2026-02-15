@@ -1,4 +1,14 @@
 AI Accountability Reference
+## Start Here
+
+If you are new to this repository:
+
+- Overview → see the section below
+- Core procedural safeguards → see "Core Procedural Documents"
+- Terminology clarification → see terminology-related documents
+
+---
+
 Overview
 This reference may be relevant to discussions on AI governance, singularity risk, refusal authority, and institutional decision accountability.
 
