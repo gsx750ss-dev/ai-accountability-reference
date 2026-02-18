@@ -157,6 +157,13 @@ https://github.com/gsx750ss-dev/lumina-30-overview
 
 ---
 
+### Related References
+
+- Overview  
+  https://github.com/gsx750ss-dev/lumina-30-overview
+
+---
+
 License
 
 Released under CC0 (public domain).
