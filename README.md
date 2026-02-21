@@ -124,6 +124,13 @@ It exists solely as a neutral reference object within discussions concerning ins
 
 ---
 
+Related references:
+- Stop Authority (Reference)
+- Institutional Friction Toolkit
+- Post-Incident Review Structures
+  
+---
+
 ## Related Conceptual Reference
 
 - LUMINA-30 — Civilizational boundary reference  
